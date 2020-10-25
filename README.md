@@ -18,13 +18,13 @@ According to Machine Learning methods, we can build different classifiers toward
 
 <em>Figure 1: Django.</em>
 
-Users can select SVM, Decision Tree and KNN classifiers. If the inputs are wrong, the result cannot be showd in Figure 2.
+Users can select SVM, Decision Tree and KNN classifiers. If the inputs are wrong, the prediction cannot be showd in Figure 2.
 
-<img src="/image/django-iris_input_error_result.JPG" width="800"/> 
+<img src="/image/django-iris_input_error_result.JPG" width="400"/> 
 
 <em>Figure 2: The result for error inputs.</em>
 
-Once users get the result, the input and result will be listed into database. User can click "DB" (on top right) to see all data (as Figure 3).
+Once users get the result, the input and prediction will be listed into database. User can click "DB" (on top right) to see all data (as Figure 3).
 
 <img src="/image/django-iris_db.JPG" width="800"/> 
 
