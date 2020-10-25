@@ -14,6 +14,6 @@ Iris data set is from [UCI Machine Learning Repository](https://archive.ics.uci.
 ## Application
 According to Machine Learning methods, we can build different classifiers toward data set. Then, we create a website that user can input attributes and select classifiers based on their needs to predict iris class. This new data will be import into data base and the admin can check this classification is correct or not. If it is not, the admin can delete the result.
 
-<img src="/image/jango-iris.JPG" width="800"/> 
+<img src="/image/django-iris.JPG" width="800"/> 
 
 <em>Figure 1: Django.</em>
