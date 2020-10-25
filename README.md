@@ -2,7 +2,7 @@
 
 ## Contents
 * [Background](#background)
-* [Data Set](#data set)
+* [Data Set](#data-set)
 * [Application](#application)
 
 ## Background
